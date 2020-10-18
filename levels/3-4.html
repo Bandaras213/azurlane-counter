@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Azur Lane Drop Counter</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+  <script src="/script.js" defer></script>
+</head>
+
+<body>
+  <h1>Azur Lane Drop Counter</h1>
+  <div class="contthings">
+  <button type="button2" onclick="load()" id="load">Load</button>
+  <input type="text" id="save" name="save" value="">
+  <button type="button3" onclick="clearcookie()" id="clear">Clear</button>
+</div>
+
+  <table style="width:100%">
+    <tbody>
+      <tr>
+        <td>
+          <div class="almain">
+            <div class="alhoverbox rarity-5">
+              <div class="albosstext">Boss only</div>
+              <a title="Akagi"><img alt=""
+                  src="/assets/thumbnails/Akagi.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Akagi</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-5">
+              <div class="albosstext">Boss only</div>
+              <a title="Kaga"><img alt=""
+                  src="/assets/thumbnails/Kaga.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Kaga</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-4">
+              <a title="Laffey"><img alt=""
+                  src="/assets/thumbnails/Laffey.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Laffey</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-4">
+              <a title="Javelin"><img alt=""
+                  src="/assets/thumbnails/Javelin.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Javelin</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-4">
+              <a title="Z23"><img alt=""
+                  src="/assets/thumbnails/Z23.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Z23</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-4">
+              <a title="Yorktown"><img alt=""
+                  src="/assets/thumbnails/Yorktown.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Yorktown</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-4">
+              <a title="Houston"><img alt=""
+                  src="/assets/thumbnails/Houston.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Houston</div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <button type="button" class="buttons" id="0"></button>
+          <button type="button" class="buttons" id="1"></button>
+          <button type="button" class="buttons" id="2"></button>
+          <button type="button" class="buttons" id="3"></button>
+          <button type="button" class="buttons" id="4"></button>
+          <button type="button" class="buttons" id="5"></button>
+          <button type="button" class="buttons" id="6"></button>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="almain">
+            <div class="alhoverbox rarity-3">
+              <a title="Portland"><img alt=""
+                  src="/assets/thumbnails/Portland.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Portland</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-3">
+              <a title="Juno"><img alt=""
+                  src="/assets/thumbnails/Juno.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Juno</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-3">
+              <a title="Fletcher"><img alt=""
+                  src="/assets/thumbnails/Fletcher.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Fletcher</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-3">
+              <a title="Thatcher"><img alt=""
+                  src="/assets/thumbnails/Thatcher.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Thatcher</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-3">
+              <a title="Kagerou"><img alt=""
+                  src="/assets/thumbnails/Kagerou.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Kagerou</div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <button type="button" class="buttons" id="7"></button>
+          <button type="button" class="buttons" id="8"></button>
+          <button type="button" class="buttons" id="9"></button>
+          <button type="button" class="buttons" id="10"></button>
+          <button type="button" class="buttons" id="11"></button>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="almain">
+            <div class="alhoverbox rarity-2">
+              <a title="Cassin"><img alt=""
+                  src="/assets/thumbnails/Cassin.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Cassin</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-2">
+              <a title="Downes"><img alt=""
+                  src="/assets/thumbnails/Downes.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Downes</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-2">
+              <a title="Aulick"><img alt=""
+                  src="/assets/thumbnails/Aulick.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Aulick</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-2">
+              <a title="Foote"><img alt=""
+                  src="/assets/thumbnails/Foote.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Foote</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-2">
+              <a title="Spence"><img alt=""
+                  src="/assets/thumbnails/Spence.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Spence</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-2">
+              <a title="Nevada"><img alt=""
+                  src="/assets/thumbnails/Nevada.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Nevada</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-2">
+              <a title="Oklahoma"><img alt=""
+                  src="/assets/thumbnails/Oklahoma.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Oklahoma</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-2">
+              <a title="Langley"><img alt=""
+                  src="/assets/thumbnails/Langley.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Langley</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-2">
+              <a title="Ranger"><img alt=""
+                  src="/assets/thumbnails/Ranger.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Ranger</div>
+          </div>
+          <div class="almain">
+            <div class="alhoverbox rarity-2">
+              <a title="Beagle"><img alt=""
+                  src="/assets/thumbnails/Beagle.png"
+                  decoding="async" width="60" height="60" /></a>
+            </div>
+            <div class="alhoverboxtext">Beagle</div>
+          </div>
+      <tr>
+        <td>
+          <button type="button" class="buttons" id="12"></button>
+          <button type="button" class="buttons" id="13"></button>
+          <button type="button" class="buttons" id="14"></button>
+          <button type="button" class="buttons" id="15"></button>
+          <button type="button" class="buttons" id="16"></button>
+          <button type="button" class="buttons" id="17"></button>
+          <button type="button" class="buttons" id="18"></button>
+          <button type="button" class="buttons" id="19"></button>
+          <button type="button" class="buttons" id="20"></button>
+          <button type="button" class="buttons" id="21"></button>
+        </td>
+      </tr>
+      <td>
+        <div class="almain">
+          <div class="alhoverbox rarity-2">
+            <a title="Bulldog"><img alt=""
+                src="/assets/thumbnails/Bulldog.png"
+                decoding="async" width="60" height="60" /></a>
+          </div>
+          <div class="alhoverboxtext">Bulldog</div>
+        </div>
+        <div class="almain">
+          <div class="alhoverbox rarity-2">
+            <a title="Foxhound"><img alt=""
+                src="/assets/thumbnails/Foxhound.png"
+                decoding="async" width="60" height="60" /></a>
+          </div>
+          <div class="alhoverboxtext">Foxhound</div>
+        </div>
+        <div class="almain">
+          <div class="alhoverbox rarity-2">
+            <a title="Königsberg"><img alt=""
+                src="/assets/thumbnails/Königsberg.png"
+                decoding="async" width="60" height="60" /></a>
+          </div>
+          <div class="alhoverboxtext">Königsberg</div>
+        </div>
+        <div class="almain">
+          <div class="alhoverbox rarity-2">
+            <a title="Karlsruhe"><img alt=""
+                src="/assets/thumbnails/Karlsruhe.png"
+                decoding="async" width="60" height="60" /></a>
+          </div>
+          <div class="alhoverboxtext">Karlsruhe</div>
+        </div>
+        <div class="almain">
+          <div class="alhoverbox rarity-2">
+            <a title="Köln"><img alt=""
+                src="/assets/thumbnails/Köln.png"
+                decoding="async" width="60" height="60" /></a>
+          </div>
+          <div class="alhoverboxtext">Köln</div>
+        </div>
+      </td>
+      <tr>
+        <td>
+          <button type="button" class="buttons" id="22"></button>
+          <button type="button" class="buttons" id="23"></button>
+          <button type="button" class="buttons" id="24"></button>
+          <button type="button" class="buttons" id="25"></button>
+          <button type="button" class="buttons" id="26"></button>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <center>
+            <div class="almain home">
+              <div class="alhoverbox">
+                <a href="/index.html">
+                  <img alt=""
+                    src="https://cdn.glitch.com/1eced2a4-49d3-469e-8b74-71aaf2a0660a%2F1-2-home-png-image.png?v=1581947481331"
+                    decoding="async" width="60" height="60" />
+                </a>
+              </div>
+              <div class="alhoverboxtext">Startseite</div>
+            </div>
+          </center>
+        </td>
+      </tr>
+      </td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+
+</html>

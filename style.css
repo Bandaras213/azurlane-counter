@@ -1,0 +1,238 @@
+/* CSS files add styling rules to your content */
+
+:root {
+    --white: #fff;
+    --white1: #eee;
+    --white2: #ddd;
+    --lightgray: #ccc;
+    --darkgray3: #666;
+    --darkgray2: #555;
+    --darkgray1: #444;
+    --lightblack: #222;
+    --darkblue: #98bcff;
+    --blue: #9fe8ff;
+    --aqua: #76ffdd;
+    --green: #98fb98;
+    --yellow: #ff8;
+    --gold: #ee9;
+    --lightorange: #ffd192;
+    --orange: #ffa17c;
+    --lightred: #ffb4b4;
+    --red: #ff8d8d;
+    --lightpink: #f4c0ff;
+    --pink: #ed98ff;
+    --purple: #c4adff;
+    --rainbow: linear-gradient(120deg,#fbffca,#baffbf,#a7efff,#ffabff);
+    --border-dark: #808080;
+    --border-light: #d3d3d3;
+    --default-link: #2161d6;
+    --default-link-visited: #0c008f;
+    --orange-link: #faa700;
+    --orange-link-active: #ffc238;
+    --orange-link-visited: #dc9d20;
+}
+
+body {
+    background-color: #eee;
+    font-family: sans-serif;
+    white-space: nowrap;
+}
+
+h1 {
+    font-style: italic;
+    color: #373fff;
+    float: left;
+    margin-left: 10px;
+}
+
+.contthings {
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    margin-top: 25px;
+}
+
+#load {
+    order: 1;
+    margin-top: 5px;
+    position: relative;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+input#save {
+    width: 400px;
+    order: 2;
+    margin-top: 3px;
+    position: relative;
+}
+
+#clear {
+    order: 3;
+    margin-top: 5px;
+    position: relative;
+    margin-left: 10px;
+}
+
+.alhoverbox {
+    position: relative;
+    border: 1px solid #444;
+    border-radius: 8px;
+    padding: 1px;
+}
+
+.alhoverboxtext {
+    visibility: hidden;
+    font-size: 90%;
+    color: #eee;
+    background: rgba(33,33,33,0.8);
+    width: 60px;
+    padding: 2px;
+    border-radius: 6px;
+    position: absolute;
+    margin-top: 2px;
+    z-index: 1;
+}
+
+.albosstext {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #eee;
+    padding: 0 3px;
+    background: rgba(33,33,33,0.8);
+    font-size: 10px;
+    border-radius: 0 7px;
+}
+
+.almain:hover > .alhoverboxtext {
+    visibility: visible;
+}
+
+.rarity-1,
+.rarity-2 {
+    background: var(--lightgray) !important;
+}
+
+.rarity-3 {
+    background: var(--blue) !important;
+}
+
+.rarity-4 {
+    background: var(--purple) !important;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+    margin-bottom: 60px;
+    margin-left: 10px;
+}
+
+.rarity-5 {
+    background: var(--gold) !important;
+}
+
+.almain {
+    display: inline-block;
+    position: relative;
+    width: 64px;
+    margin: 2px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.alicongear {
+    display: inline-block;
+    position: relative;
+    width: 64px;
+    margin: 2px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+body.mw-hide-empty-elt .mw-empty-elt {
+    display: none;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+table.mapbox {
+    width: 100%;
+    max-width: 1600px;
+    text-align: left;
+    margin: 0;
+}
+
+table.azltable {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+table.mapbox caption {
+    border-radius: 8px 8px 0 0;
+    text-align: left;
+}
+table.mapbox > * > tr > th, table.mapbox > * > tr > td, table.mapbox caption {
+    padding: 0.4em 1em;
+}
+
+table.azltable > caption {
+    display: table-caption;
+    background-color: var(--darkgray1);
+    color: var(--white2);
+    font-weight: bold;
+    text-align: center;
+}
+table.azltable > caption, table.azltable > * > tr > th, table.azltable > * > tr > td {
+    padding: 0.2em 0.5em;
+}
+
+caption {
+    display: table-caption;
+    text-align: -webkit-center;
+}
+
+.home {
+    display: inline-block;
+    position: relative;
+    width: 64px;
+    margin: 2px;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 140px;
+}
+
+.indexer {
+    width: fit-content;
+    height: 120px;
+    margin-left: 30px;
+}
+
+button {
+    position: relative;
+    width: 64px;
+    height: 21px;
+    margin: 2px;
+    margin-top: 18px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+img {
+    border: 0;
+    vertical-align: middle;
+}
+
+table.azltable > * > tr > td {
+    border: 1px solid var(--border-light);
+    border-top: none;
+    background-color: var(--white1);
+    color: var(--lightblack);
+}
