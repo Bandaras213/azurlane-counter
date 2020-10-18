@@ -2,6 +2,8 @@ let domain = location.pathname
 let count
 let savebox
 
+console.log(domain)
+
 window.onload = async function () {
     let cookiesaved = await readcookies(domain)
     savebox = document.getElementById("save")
@@ -26,7 +28,7 @@ async function setcookie(a1) {
 
 function clearcookie() {
     if (confirm(`This removes the saved ships for ${domain} are you sure?`)) {
-        if (location.pathname == "/levels/3-4.html" || location.pathname == "/levels/3-4hard.html") {
+        if (location.pathname == "/azurlane-counter/levels/3-4.html" || location.pathname == "/azurlane-counter/levels/3-4hard.html") {
             count = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]; // 27 Ships
             savebox.value = count
             setcookie(count, domain)
@@ -47,7 +49,7 @@ function inputsave(a1) {
             button.innerHTML = e;
         })
     } else {
-        if (location.pathname == "/levels/3-4.html" || location.pathname == "/levels/3-4hard.html") {
+        if (location.pathname == "/azurlane-counter/levels/3-4.html" || location.pathname == "/azurlane-counter/levels/3-4hard.html") {
             count = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]; // 27 Ships
             savebox.value = count
             setcookie(count, domain)
@@ -66,7 +68,7 @@ function add() {
 function load() {
     let str = savebox.value;
     let res = str.split(",");
-    if (location.pathname == "/levels/3-4.html" || location.pathname == "/levels/3-4hard.html") {
+    if (location.pathname == "/azurlane-counter/levels/3-4.html" || location.pathname == "/azurlane-counter/levels/3-4hard.html") {
         if (res.length == 0 || res.length < 27 || res[26] == "") {
             if (res[26] == "" || res[26] == undefined) {
                 var newres = res.length - 1
