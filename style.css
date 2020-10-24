@@ -81,7 +81,7 @@ h1 {
 }
 
 #world3 {
-  background: url('../assets/worldmaps/map_3.png') no-repeat;
+  background: url('./assets/worldmaps/map_3.png') no-repeat;
 }
 
 .contthings {
