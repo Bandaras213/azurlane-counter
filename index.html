@@ -1,32 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Azur Lane Drop Counter</title>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="style.css" />
-  </head>
 
-  <body>
-    <h1>Azur Lane Drop Location</h1>
-    <table style="width:100%">
-      <tbody>
-        <tr>
-          <td>
-            <div class="almain indexer">
-              <div class="alhoverbox">
-                <a href="levels/3-4.html">3-4 Counterattack!</a>
-              </div>
-            </div>
-            <div class="almain indexer">
-              <div class="alhoverbox">
-                <a href="levels/3-4hard.html">3-4 Counterattack! Hard</a>
-              </div>
-            </div>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </body>
+<head>
+  <title>Azur Lane Drop Counter</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+  <script src="../script.js" defer></script>
+</head>
+
+<body>
+  <h1>Azur Lane Drop Location</h1>
+  <input type="image" draggable="false" class="levelbutton normal" id="level3-1" data-level-target="#w3-l1"
+    src="./assets/misc/clear.png">
+  <div class="levelpop" id="w3-l1"></div>
+  <div class="levelpop hard" id="w3-l1-hard"></div>
+  <input type="image" draggable="false" class="levelbutton normal" id="level3-2" data-level-target="#w3-l2"
+    src="./assets/misc/clear.png">
+  <div class="levelpop" id="w3-l2"></div>
+  <div class="levelpop hard" id="w3-l2-hard"></div>
+  <input type="image" draggable="false" class="levelbutton normal" id="level3-3" data-level-target="#w3-l3"
+    src="./assets/misc/clear.png">
+  <div class="levelpop" id="w3-l3"></div>
+  <div class="levelpop hard" id="w3-l3-hard"></div>
+  <input type="image" draggable="false" class="levelbutton normal" id="level3-4" data-level-target="#w3-l4"
+    src="./assets/misc/clear.png">
+  <div class="levelpop" id="w3-l4"></div>
+  <div class="levelpop hard" id="w3-l4-hard"></div>
+  <input type="image" draggable="false" class="diffbutton" id="difficulty" src="./assets/misc/normal.png">
+  <div class="background" id="world3"></div>
+  <div id="overlay"></div>
+</body>
+
 </html>

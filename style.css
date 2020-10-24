@@ -1,238 +1,343 @@
-/* CSS files add styling rules to your content */
-
 :root {
-    --white: #fff;
-    --white1: #eee;
-    --white2: #ddd;
-    --lightgray: #ccc;
-    --darkgray3: #666;
-    --darkgray2: #555;
-    --darkgray1: #444;
-    --lightblack: #222;
-    --darkblue: #98bcff;
-    --blue: #9fe8ff;
-    --aqua: #76ffdd;
-    --green: #98fb98;
-    --yellow: #ff8;
-    --gold: #ee9;
-    --lightorange: #ffd192;
-    --orange: #ffa17c;
-    --lightred: #ffb4b4;
-    --red: #ff8d8d;
-    --lightpink: #f4c0ff;
-    --pink: #ed98ff;
-    --purple: #c4adff;
-    --rainbow: linear-gradient(120deg,#fbffca,#baffbf,#a7efff,#ffabff);
-    --border-dark: #808080;
-    --border-light: #d3d3d3;
-    --default-link: #2161d6;
-    --default-link-visited: #0c008f;
-    --orange-link: #faa700;
-    --orange-link-active: #ffc238;
-    --orange-link-visited: #dc9d20;
+  --white: #fff;
+  --white1: #eee;
+  --white2: #ddd;
+  --lightgray: #ccc;
+  --darkgray3: #666;
+  --darkgray2: #555;
+  --darkgray1: #444;
+  --lightblack: #222;
+  --darkblue: #98bcff;
+  --blue: #9fe8ff;
+  --aqua: #76ffdd;
+  --green: #98fb98;
+  --yellow: #ff8;
+  --gold: #ee9;
+  --lightorange: #ffd192;
+  --orange: #ffa17c;
+  --lightred: #ffb4b4;
+  --red: #ff8d8d;
+  --lightpink: #f4c0ff;
+  --pink: #ed98ff;
+  --purple: #c4adff;
+  --rainbow: linear-gradient(120deg, #fbffca, #baffbf, #a7efff, #ffabff);
+  --border-dark: #808080;
+  --border-light: #d3d3d3;
+  --default-link: #2161d6;
+  --default-link-visited: #0c008f;
+  --orange-link: #faa700;
+  --orange-link-active: #ffc238;
+  --orange-link-visited: #dc9d20;
 }
 
 body {
-    background-color: #eee;
-    font-family: sans-serif;
-    white-space: nowrap;
+  font-family: sans-serif;
+  white-space: nowrap;
+  background-color: #eee;
+  margin: 0;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1911px;
+  height: 969px;
+  position: fixed;
+}
+
+.counterbuttons {
+  color: white;
+  display: inline-block;
+  position: relative;
+  width: 86px;
+  height: 25px;
+  margin-right: 2px;
+  text-align: center;
+  vertical-align: middle;
+  background: repeating-linear-gradient(23deg, #42699c, #42699c 10px, #5a8ece 35px, #5a8ece 123px);
+  outline: none;
+}
+
+.levelpop.hard .counterbuttons {
+  background: repeating-linear-gradient(23deg, #ad3838, #ad3838 10px, #d37070 35px, #d37070 123px);
+}
+
+input[type="image"] {
+  border: none;
+  outline: none;
 }
 
 h1 {
-    font-style: italic;
-    color: #373fff;
-    float: left;
-    margin-left: 10px;
+  font-style: italic;
+  color: #373fff;
+  float: left;
+  margin-left: 10px;
+}
+
+.background {
+  width: 1920px;
+  height: 969px;
+}
+
+#world3 {
+  background: url('../assets/worldmaps/map_3.png') no-repeat;
 }
 
 .contthings {
-    display: inline-flex;
-    align-items: center;
-    position: absolute;
-    margin-top: 25px;
+  display: inline-flex;
+  align-items: center;
+  position: absolute;
+  margin-top: 25px;
+}
+
+input.levelbutton,
+input.diffbutton {
+  position: absolute;
+}
+
+input.diffbutton#difficulty {
+  bottom: 11.25px;
+  left: 20.63px;
+}
+
+input.levelbutton#level3-1 {
+  top: calc(274.13px - (125px / 2));
+  left: calc(597.75px - (123px / 2));
+}
+
+input.levelbutton#level3-2 {
+  top: calc(694.25px - (125px / 2));
+  left: calc(337.13px - (123px / 2));
+}
+
+input.levelbutton#level3-3 {
+  top: calc(149.63px - (125px / 2));
+  left: calc(1175.25px - (123px / 2));
+}
+
+input.levelbutton#level3-4 {
+  top: calc(492.75px - (125px / 2));
+  left: calc(912.75px - (123px / 2));
 }
 
 #load {
-    order: 1;
-    margin-top: 5px;
-    position: relative;
-    margin-right: 10px;
-    margin-left: 20px;
+  order: 1;
+  margin-top: 5px;
+  position: relative;
+  margin-right: 10px;
+  margin-left: 20px;
 }
 
 input#save {
-    width: 400px;
-    order: 2;
-    margin-top: 3px;
-    position: relative;
+  width: 400px;
+  order: 2;
+  margin-top: 5px;
+  position: relative;
 }
 
 #clear {
-    order: 3;
-    margin-top: 5px;
-    position: relative;
-    margin-left: 10px;
+  order: 3;
+  margin-top: 5px;
+  position: relative;
+  margin-left: 10px;
 }
 
 .alhoverbox {
-    position: relative;
-    border: 1px solid #444;
-    border-radius: 8px;
-    padding: 1px;
+  position: relative;
+  width: 80px;
+  height: 80px;
 }
 
 .alhoverboxtext {
-    visibility: hidden;
-    font-size: 90%;
-    color: #eee;
-    background: rgba(33,33,33,0.8);
-    width: 60px;
-    padding: 2px;
-    border-radius: 6px;
-    position: absolute;
-    margin-top: 2px;
-    z-index: 1;
+  color: #eee;
+  background: black;
+  min-width: 60px;
+  padding: 2px;
+  border-radius: 6px;
+  margin-top: 2px;
+  z-index: 1;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -130%);
+}
+
+.alhoverboxmain {
+  visibility: hidden;
+  position: relative;
 }
 
 .albosstext {
-    position: absolute;
-    top: 0;
-    right: 0;
-    color: #eee;
-    padding: 0 3px;
-    background: rgba(33,33,33,0.8);
-    font-size: 10px;
-    border-radius: 0 7px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #eee;
+  padding: 0 3px;
+  background: rgba(33, 33, 33, 0.8);
+  font-size: 10px;
+  border-radius: 0 7px;
 }
 
-.almain:hover > .alhoverboxtext {
-    visibility: visible;
+.almain:hover>.alhoverboxmain {
+  visibility: visible;
+}
+
+.alhoverbox a img {
+  width: 80px;
+  height: 80px;
 }
 
 .rarity-1,
 .rarity-2 {
-    background: var(--lightgray) !important;
+  background: var(--lightgray) !important;
+  border: 2px solid var(--lightgray) !important;
 }
 
 .rarity-3 {
-    background: var(--blue) !important;
+  background: var(--blue) !important;
+  border: 2px solid var(--blue) !important;
 }
 
 .rarity-4 {
-    background: var(--purple) !important;
+  background: var(--purple) !important;
+  border: 2px solid var(--purple) !important;
 }
 
 table {
-    display: table;
-    border-collapse: separate;
-    border-spacing: 2px;
-    border-color: grey;
-    margin-bottom: 60px;
-    margin-left: 10px;
+  display: table;
+  border-color: grey;
+  margin: 10px;
+  border: 0px;
 }
 
 .rarity-5 {
-    background: var(--gold) !important;
+  background: var(--gold) !important;
+  border: 2px solid var(--gold) !important;
 }
 
 .almain {
-    display: inline-block;
-    position: relative;
-    width: 64px;
-    margin: 2px;
-    text-align: center;
-    vertical-align: middle;
-}
-
-.alicongear {
-    display: inline-block;
-    position: relative;
-    width: 64px;
-    margin: 2px;
-    text-align: center;
-    vertical-align: middle;
-}
-
-body.mw-hide-empty-elt .mw-empty-elt {
-    display: none;
+  display: inline-block;
+  position: relative;
+  margin: 2px;
+  text-align: center;
+  vertical-align: middle;
 }
 
 tbody {
-    display: table-row-group;
-    vertical-align: middle;
-    border-color: inherit;
-}
-
-table.mapbox {
-    width: 100%;
-    max-width: 1600px;
-    text-align: left;
-    margin: 0;
-}
-
-table.azltable {
-    border-collapse: separate;
-    border-spacing: 0;
-}
-
-table.mapbox caption {
-    border-radius: 8px 8px 0 0;
-    text-align: left;
-}
-table.mapbox > * > tr > th, table.mapbox > * > tr > td, table.mapbox caption {
-    padding: 0.4em 1em;
-}
-
-table.azltable > caption {
-    display: table-caption;
-    background-color: var(--darkgray1);
-    color: var(--white2);
-    font-weight: bold;
-    text-align: center;
-}
-table.azltable > caption, table.azltable > * > tr > th, table.azltable > * > tr > td {
-    padding: 0.2em 0.5em;
-}
-
-caption {
-    display: table-caption;
-    text-align: -webkit-center;
-}
-
-.home {
-    display: inline-block;
-    position: relative;
-    width: 64px;
-    margin: 2px;
-    text-align: center;
-    vertical-align: middle;
-    margin-top: 140px;
-}
-
-.indexer {
-    width: fit-content;
-    height: 120px;
-    margin-left: 30px;
-}
-
-button {
-    position: relative;
-    width: 64px;
-    height: 21px;
-    margin: 2px;
-    margin-top: 18px;
-    text-align: center;
-    vertical-align: middle;
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
 }
 
 img {
-    border: 0;
-    vertical-align: middle;
+  border: 0;
+  vertical-align: middle;
 }
 
-table.azltable > * > tr > td {
-    border: 1px solid var(--border-light);
-    border-top: none;
-    background-color: var(--white1);
-    color: var(--lightblack);
+.levelpop {
+  background-color: #a4aebd;
+  color: white;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  transition: 200ms ease-in-out;
+  border: 1px solid white;
+  z-index: 99999;
+  height: 650px;
+  width: 1000px;
+}
+
+.levelpop.active {
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.levelpop-header {
+  margin: 10px;
+  margin-bottom: 0px;
+  display: flex;
+  width: 980px;
+  height: 50px;
+}
+
+.levelpop-titlebox {
+  height: 45px;
+  width: 920px;
+  margin-right: 10px;
+  background-color: #5275b5;
+  display: flex;
+  align-items: center;
+  opacity: 0.9;
+}
+
+.levelpop-titlebg {
+  background: repeating-linear-gradient(-55deg,
+      #4a69a4,
+      #4a69a4 10px,
+      #5271b5 10px,
+      #5271b5 22px);
+}
+
+.levelpop.hard .levelpop-titlebox {
+  background-color: #cb4d4d;
+}
+
+.levelpop.hard .levelpop-titlebg {
+  background: repeating-linear-gradient(-55deg,
+      #d77575,
+      #d77575 10px,
+      #cb4d4d 10px,
+      #cb4d4d 22px);
+}
+
+.levelpop-title {
+  text-shadow: 2px 1px #00000070;
+  font-size: 33px;
+  margin-left: 3.5px;
+}
+
+.levelpop-body {
+  display: inline-flex;
+  margin: 10px;
+  width: 980px;
+  height: 570px;
+  background-color: #6b7584;
+}
+
+.close-button {
+  color: white;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: none;
+  height: 45px;
+  width: 70px;
+  background-color: rgba(255, 0, 0, 0.788);
+  font-size: 55px;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  border-radius: 5px;
+}
+
+.close-button:hover {
+  background-color: rgb(255, 0, 0);
+}
+
+#overlay {
+  position: fixed;
+  opacity: 0;
+  transition: 200ms ease-in-out;
+  z-index: 99998;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+  pointer-events: none;
+}
+
+#overlay.active {
+  opacity: 1;
+  pointer-events: all;
 }
