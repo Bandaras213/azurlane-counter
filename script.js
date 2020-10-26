@@ -102,7 +102,7 @@ window.onload = async function () {
 
 function changediff() {
     if (this.src.includes("normal")) {
-        this.src = "./assets/misc/hard.png"
+        this.src = "../assets/misc/hard.png"
         document.querySelectorAll('.levelbutton').forEach((e) => {
             if (e.classList.contains("normal")) {
                 e.classList.remove("normal")
@@ -111,7 +111,7 @@ function changediff() {
             }
         })
     } else if (this.src.includes("hard")) {
-        this.src = "./assets/misc/normal.png"
+        this.src = "../assets/misc/normal.png"
         document.querySelectorAll('.levelbutton').forEach((e) => {
             if (e.classList.contains("hard")) {
                 e.classList.remove("hard")
