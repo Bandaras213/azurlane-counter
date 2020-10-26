@@ -9,7 +9,7 @@ let rar3 = 0
 
 async function getjson(a1) {
     try {
-        let data = await fetch("./levels/" + [a1] + ".json");
+        let data = await fetch("/levels/" + [a1] + ".json");
         let result = await data.json();
         return result;
     } catch (e) {
