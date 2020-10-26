@@ -33,7 +33,7 @@
 body {
   font-family: sans-serif;
   white-space: nowrap;
-  background-color: #eee;
+  background-color: rgba(42, 42, 42, 1);
   margin: 0;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -340,4 +340,45 @@ img {
 #overlay.active {
   opacity: 1;
   pointer-events: all;
+}
+
+.indexbox {
+  width: 512px;
+  height: 288px;
+  margin-top: 89px;
+  margin-left: 89px;
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  color: black;
+  font-size: 33px;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+
+.indexbox.last {
+  margin-bottom: 89px;
+}
+
+.indexbox img {
+  width: 512px;
+  height: 288px;
+}
+.indexbox span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+}
+
+.indexbox:hover {
+  border: 1px solid white;
+}
+
+table.indextable {
+  display: table;
+  border-color: grey;
+  margin: 0px;
+  border: 0px;
 }

@@ -3,174 +3,174 @@
         "normal": {
             "l1": [{
                 "name": "Craven",
-                "thumbnail": "./assets/thumbnails/Craven.png",
+                "thumbnail": "/assets/thumbnails/Craven.png",
                 "rarity": 3
             }, {
                 "name": "McCall",
-                "thumbnail": "./assets/thumbnails/McCall.png",
+                "thumbnail": "/assets/thumbnails/McCall.png",
                 "rarity": 3
             }, {
                 "name": "Comet",
-                "thumbnail": "./assets/thumbnails/Comet.png",
+                "thumbnail": "/assets/thumbnails/Comet.png",
                 "rarity": 3
             }, {
                 "name": "Crescent",
-                "thumbnail": "./assets/thumbnails/Crescent.png",
+                "thumbnail": "/assets/thumbnails/Crescent.png",
                 "rarity": 3
             }, {
                 "name": "Cygnet",
-                "thumbnail": "./assets/thumbnails/Cygnet.png",
+                "thumbnail": "/assets/thumbnails/Cygnet.png",
                 "rarity": 3
             }],
             "l2": [{
                 "name": "Craven",
-                "thumbnail": "./assets/thumbnails/Craven.png",
+                "thumbnail": "/assets/thumbnails/Craven.png",
                 "rarity": 3
             }, {
                 "name": "McCall",
-                "thumbnail": "./assets/thumbnails/McCall.png",
+                "thumbnail": "/assets/thumbnails/McCall.png",
                 "rarity": 3
             }, {
                 "name": "Aulick",
-                "thumbnail": "./assets/thumbnails/Aulick.png",
+                "thumbnail": "/assets/thumbnails/Aulick.png",
                 "rarity": 3
             }, {
                 "name": "Foote",
-                "thumbnail": "./assets/thumbnails/Foote.png",
+                "thumbnail": "/assets/thumbnails/Foote.png",
                 "rarity": 3
             }, {
                 "name": "Spencer",
-                "thumbnail": "./assets/thumbnails/Spencer.png",
+                "thumbnail": "/assets/thumbnails/Spencer.png",
                 "rarity": 3
             }, {
                 "name": "Comet",
-                "thumbnail": "./assets/thumbnails/Comet.png",
+                "thumbnail": "/assets/thumbnails/Comet.png",
                 "rarity": 3
             }, {
                 "name": "Crescent",
-                "thumbnail": "./assets/thumbnails/Crescent.png",
+                "thumbnail": "/assets/thumbnails/Crescent.png",
                 "rarity": 3
             }, {
                 "name": "Cygnet",
-                "thumbnail": "./assets/thumbnails/Cygnet.png",
+                "thumbnail": "/assets/thumbnails/Cygnet.png",
                 "rarity": 3
             }, {
                 "name": "Foxhound",
-                "thumbnail": "./assets/thumbnails/Foxhound.png",
+                "thumbnail": "/assets/thumbnails/Foxhound.png",
                 "rarity": 3
             }],
             "l3": [{
                 "name": "Cassin",
-                "thumbnail": "./assets/thumbnails/Cassin.png",
+                "thumbnail": "/assets/thumbnails/Cassin.png",
                 "rarity": 3
             }, {
                 "name": "Downes",
-                "thumbnail": "./assets/thumbnails/Downes.png",
+                "thumbnail": "/assets/thumbnails/Downes.png",
                 "rarity": 3
             }, {
                 "name": "Craven",
-                "thumbnail": "./assets/thumbnails/Craven.png",
+                "thumbnail": "/assets/thumbnails/Craven.png",
                 "rarity": 3
             }, {
                 "name": "McCall",
-                "thumbnail": "./assets/thumbnails/McCall.png",
+                "thumbnail": "/assets/thumbnails/McCall.png",
                 "rarity": 3
             }, {
                 "name": "Aulick",
-                "thumbnail": "./assets/thumbnails/Aulick.png",
+                "thumbnail": "/assets/thumbnails/Aulick.png",
                 "rarity": 3
             }, {
                 "name": "Foote",
-                "thumbnail": "./assets/thumbnails/Foote.png",
+                "thumbnail": "/assets/thumbnails/Foote.png",
                 "rarity": 3
             }, {
                 "name": "Spencer",
-                "thumbnail": "./assets/thumbnails/Spencer.png",
+                "thumbnail": "/assets/thumbnails/Spencer.png",
                 "rarity": 3
             }, {
                 "name": "Comet",
-                "thumbnail": "./assets/thumbnails/Comet.png",
+                "thumbnail": "/assets/thumbnails/Comet.png",
                 "rarity": 3
             }, {
                 "name": "Crescent",
-                "thumbnail": "./assets/thumbnails/Crescent.png",
+                "thumbnail": "/assets/thumbnails/Crescent.png",
                 "rarity": 3
             }, {
                 "name": "Cygnet",
-                "thumbnail": "./assets/thumbnails/Cygnet.png",
+                "thumbnail": "/assets/thumbnails/Cygnet.png",
                 "rarity": 3
             }, {
                 "name": "Foxhound",
-                "thumbnail": "./assets/thumbnails/Foxhound.png",
+                "thumbnail": "/assets/thumbnails/Foxhound.png",
                 "rarity": 3
             }],
             "l4": [{
                 "name": "Renown",
-                "thumbnail": "./assets/thumbnails/Renown.png",
+                "thumbnail": "/assets/thumbnails/Renown.png",
                 "rarity": 1
             }, {
                 "name": "Repulse",
-                "thumbnail": "./assets/thumbnails/Repulse.png",
+                "thumbnail": "/assets/thumbnails/Repulse.png",
                 "rarity": 2
             }, {
                 "name": "Long Island",
-                "thumbnail": "./assets/thumbnails/LongIsland.png",
+                "thumbnail": "/assets/thumbnails/LongIsland.png",
                 "rarity": 2
             }, {
                 "name": "Cassin",
-                "thumbnail": "./assets/thumbnails/Cassin.png",
+                "thumbnail": "/assets/thumbnails/Cassin.png",
                 "rarity": 3
             }, {
                 "name": "Downes",
-                "thumbnail": "./assets/thumbnails/Downes.png",
+                "thumbnail": "/assets/thumbnails/Downes.png",
                 "rarity": 3
             }, {
                 "name": "Craven",
-                "thumbnail": "./assets/thumbnails/Craven.png",
+                "thumbnail": "/assets/thumbnails/Craven.png",
                 "rarity": 3
             }, {
                 "name": "McCall",
-                "thumbnail": "./assets/thumbnails/McCall.png",
+                "thumbnail": "/assets/thumbnails/McCall.png",
                 "rarity": 3
             }, {
                 "name": "Aulick",
-                "thumbnail": "./assets/thumbnails/Aulick.png",
+                "thumbnail": "/assets/thumbnails/Aulick.png",
                 "rarity": 3
             }, {
                 "name": "Foote",
-                "thumbnail": "./assets/thumbnails/Foote.png",
+                "thumbnail": "/assets/thumbnails/Foote.png",
                 "rarity": 3
             }, {
                 "name": "Spencer",
-                "thumbnail": "./assets/thumbnails/Spencer.png",
+                "thumbnail": "/assets/thumbnails/Spencer.png",
                 "rarity": 3
             }, {
                 "name": "Omaha",
-                "thumbnail": "./assets/thumbnails/Omaha.png",
+                "thumbnail": "/assets/thumbnails/Omaha.png",
                 "rarity": 3
             }, {
                 "name": "Raleigh",
-                "thumbnail": "./assets/thumbnails/Raleigh.png",
+                "thumbnail": "/assets/thumbnails/Raleigh.png",
                 "rarity": 3
             }, {
                 "name": "Comet",
-                "thumbnail": "./assets/thumbnails/Comet.png",
+                "thumbnail": "/assets/thumbnails/Comet.png",
                 "rarity": 3
             }, {
                 "name": "Crescent",
-                "thumbnail": "./assets/thumbnails/Crescent.png",
+                "thumbnail": "/assets/thumbnails/Crescent.png",
                 "rarity": 3
             }, {
                 "name": "Cygnet",
-                "thumbnail": "./assets/thumbnails/Cygnet.png",
+                "thumbnail": "/assets/thumbnails/Cygnet.png",
                 "rarity": 3
             }, {
                 "name": "Foxhound",
-                "thumbnail": "./assets/thumbnails/Foxhound.png",
+                "thumbnail": "/assets/thumbnails/Foxhound.png",
                 "rarity": 3
             }, {
                 "name": "Leander",
-                "thumbnail": "./assets/thumbnails/Leander.png",
+                "thumbnail": "/assets/thumbnails/Leander.png",
                 "rarity": 3
             }]
         }
@@ -179,378 +179,378 @@
         "normal": {
             "l1": [{
                 "name": "Laffey",
-                "thumbnail": "./assets/thumbnails/Laffey.png",
+                "thumbnail": "/assets/thumbnails/Laffey.png",
                 "rarity": 1
             }, {
                 "name": "Javelin",
-                "thumbnail": "./assets/thumbnails/Javelin.png",
+                "thumbnail": "/assets/thumbnails/Javelin.png",
                 "rarity": 1
             }, {
                 "name": "Z23",
-                "thumbnail": "./assets/thumbnails/Z23.png",
+                "thumbnail": "/assets/thumbnails/Z23.png",
                 "rarity": 1
             }, {
                 "name": "London",
-                "thumbnail": "./assets/thumbnails/London.png",
+                "thumbnail": "/assets/thumbnails/London.png",
                 "rarity": 1
             }, {
                 "name": "Juno",
-                "thumbnail": "./assets/thumbnails/Juno.png",
+                "thumbnail": "/assets/thumbnails/Juno.png",
                 "rarity": 2
             }, {
                 "name": "Tennessee",
-                "thumbnail": "./assets/thumbnails/Tennessee.png",
+                "thumbnail": "/assets/thumbnails/Tennessee.png",
                 "rarity": 2
             }, {
                 "name": "California",
-                "thumbnail": "./assets/thumbnails/California.png",
+                "thumbnail": "/assets/thumbnails/California.png",
                 "rarity": 2
             }, {
                 "name": "Cassin",
-                "thumbnail": "./assets/thumbnails/Cassin.png",
+                "thumbnail": "/assets/thumbnails/Cassin.png",
                 "rarity": 3
             }, {
                 "name": "Downes",
-                "thumbnail": "./assets/thumbnails/Downes.png",
+                "thumbnail": "/assets/thumbnails/Downes.png",
                 "rarity": 3
             }, {
                 "name": "Craven",
-                "thumbnail": "./assets/thumbnails/Craven.png",
+                "thumbnail": "/assets/thumbnails/Craven.png",
                 "rarity": 3
             }, {
                 "name": "McCall",
-                "thumbnail": "./assets/thumbnails/McCall.png",
+                "thumbnail": "/assets/thumbnails/McCall.png",
                 "rarity": 3
             }, {
                 "name": "Omaha",
-                "thumbnail": "./assets/thumbnails/Omaha.png",
+                "thumbnail": "/assets/thumbnails/Omaha.png",
                 "rarity": 3
             }, {
                 "name": "Raleigh",
-                "thumbnail": "./assets/thumbnails/Raleigh.png",
+                "thumbnail": "/assets/thumbnails/Raleigh.png",
                 "rarity": 3
             }, {
                 "name": "Pensacola",
-                "thumbnail": "./assets/thumbnails/Pensacola.png",
+                "thumbnail": "/assets/thumbnails/Pensacola.png",
                 "rarity": 3
             }, {
                 "name": "Bogue",
-                "thumbnail": "./assets/thumbnails/Bogue.png",
+                "thumbnail": "/assets/thumbnails/Bogue.png",
                 "rarity": 3
             }, {
                 "name": "Comet",
-                "thumbnail": "./assets/thumbnails/Comet.png",
+                "thumbnail": "/assets/thumbnails/Comet.png",
                 "rarity": 3
             }, {
                 "name": "Crescent",
-                "thumbnail": "./assets/thumbnails/Crescent.png",
+                "thumbnail": "/assets/thumbnails/Crescent.png",
                 "rarity": 3
             }, {
                 "name": "Cygnet",
-                "thumbnail": "./assets/thumbnails/Cygnet.png",
+                "thumbnail": "/assets/thumbnails/Cygnet.png",
                 "rarity": 3
             }, {
                 "name": "Foxhound",
-                "thumbnail": "./assets/thumbnails/Foxhound.png",
+                "thumbnail": "/assets/thumbnails/Foxhound.png",
                 "rarity": 3
             }, {
                 "name": "Leander",
-                "thumbnail": "./assets/thumbnails/Leander.png",
+                "thumbnail": "/assets/thumbnails/Leander.png",
                 "rarity": 3
             }, {
                 "name": "Hermes",
-                "thumbnail": "./assets/thumbnails/Hermes.png",
+                "thumbnail": "/assets/thumbnails/Hermes.png",
                 "rarity": 3
             }],
             "l2": [{
                 "name": "Laffey",
-                "thumbnail": "./assets/thumbnails/Laffey.png",
+                "thumbnail": "/assets/thumbnails/Laffey.png",
                 "rarity": 1
             }, {
                 "name": "Javelin",
-                "thumbnail": "./assets/thumbnails/Javelin.png",
+                "thumbnail": "/assets/thumbnails/Javelin.png",
                 "rarity": 1
             }, {
                 "name": "Z23",
-                "thumbnail": "./assets/thumbnails/Z23.png",
+                "thumbnail": "/assets/thumbnails/Z23.png",
                 "rarity": 1
             }, {
                 "name": "Arizona",
-                "thumbnail": "./assets/thumbnails/Arizona.png",
+                "thumbnail": "/assets/thumbnails/Arizona.png",
                 "rarity": 1
             }, {
                 "name": "Pennsylvania",
-                "thumbnail": "./assets/thumbnails/Pennsylvania.png",
+                "thumbnail": "/assets/thumbnails/Pennsylvania.png",
                 "rarity": 2
             }, {
                 "name": "Gridley",
-                "thumbnail": "./assets/thumbnails/Gridley.png",
+                "thumbnail": "/assets/thumbnails/Gridley.png",
                 "rarity": 2
             }, {
                 "name": "Brooklyn",
-                "thumbnail": "./assets/thumbnails/Brooklyn.png",
+                "thumbnail": "/assets/thumbnails/Brooklyn.png",
                 "rarity": 2
             }, {
                 "name": "Shouhou",
-                "thumbnail": "./assets/thumbnails/Shouhou.png",
+                "thumbnail": "/assets/thumbnails/Shouhou.png",
                 "rarity": 2
             }, {
                 "name": "Cassin",
-                "thumbnail": "./assets/thumbnails/Cassin.png",
+                "thumbnail": "/assets/thumbnails/Cassin.png",
                 "rarity": 3
             }, {
                 "name": "Downes",
-                "thumbnail": "./assets/thumbnails/Downes.png",
+                "thumbnail": "/assets/thumbnails/Downes.png",
                 "rarity": 3
             }, {
                 "name": "Craven",
-                "thumbnail": "./assets/thumbnails/Craven.png",
+                "thumbnail": "/assets/thumbnails/Craven.png",
                 "rarity": 3
             }, {
                 "name": "McCall",
-                "thumbnail": "./assets/thumbnails/McCall.png",
+                "thumbnail": "/assets/thumbnails/McCall.png",
                 "rarity": 3
             }, {
                 "name": "Pensacola",
-                "thumbnail": "./assets/thumbnails/Pensacola.png",
+                "thumbnail": "/assets/thumbnails/Pensacola.png",
                 "rarity": 3
             }, {
                 "name": "Nevada",
-                "thumbnail": "./assets/thumbnails/Nevada.png",
+                "thumbnail": "/assets/thumbnails/Nevada.png",
                 "rarity": 3
             }, {
                 "name": "Oklahoma",
-                "thumbnail": "./assets/thumbnails/Oklahoma.png",
+                "thumbnail": "/assets/thumbnails/Oklahoma.png",
                 "rarity": 3
             }, {
                 "name": "Bogue",
-                "thumbnail": "./assets/thumbnails/Bogue.png",
+                "thumbnail": "/assets/thumbnails/Bogue.png",
                 "rarity": 3
             }, {
                 "name": "Omaha",
-                "thumbnail": "./assets/thumbnails/Omaha.png",
+                "thumbnail": "/assets/thumbnails/Omaha.png",
                 "rarity": 3
             }, {
                 "name": "Raleigh",
-                "thumbnail": "./assets/thumbnails/Raleigh.png",
+                "thumbnail": "/assets/thumbnails/Raleigh.png",
                 "rarity": 3
             }, {
                 "name": "Comet",
-                "thumbnail": "./assets/thumbnails/Comet.png",
+                "thumbnail": "/assets/thumbnails/Comet.png",
                 "rarity": 3
             }, {
                 "name": "Crescent",
-                "thumbnail": "./assets/thumbnails/Crescent.png",
+                "thumbnail": "/assets/thumbnails/Crescent.png",
                 "rarity": 3
             }, {
                 "name": "Cygnet",
-                "thumbnail": "./assets/thumbnails/Cygnet.png",
+                "thumbnail": "/assets/thumbnails/Cygnet.png",
                 "rarity": 3
             }, {
                 "name": "Leander",
-                "thumbnail": "./assets/thumbnails/Leander.png",
+                "thumbnail": "/assets/thumbnails/Leander.png",
                 "rarity": 3
             }, {
                 "name": "Hermes",
-                "thumbnail": "./assets/thumbnails/Hermes.png",
+                "thumbnail": "/assets/thumbnails/Hermes.png",
                 "rarity": 3
             }],
             "l3": [{
                 "name": "Laffey",
-                "thumbnail": "./assets/thumbnails/Laffey.png",
+                "thumbnail": "/assets/thumbnails/Laffey.png",
                 "rarity": 1
             }, {
                 "name": "Javelin",
-                "thumbnail": "./assets/thumbnails/Javelin.png",
+                "thumbnail": "/assets/thumbnails/Javelin.png",
                 "rarity": 1
             }, {
                 "name": "Z23",
-                "thumbnail": "./assets/thumbnails/Z23.png",
+                "thumbnail": "/assets/thumbnails/Z23.png",
                 "rarity": 1
             }, {
                 "name": "Nelson",
-                "thumbnail": "./assets/thumbnails/Nelson.png",
+                "thumbnail": "/assets/thumbnails/Nelson.png",
                 "rarity": 1
             }, {
                 "name": "Shouhou",
-                "thumbnail": "./assets/thumbnails/Shouhou.png",
+                "thumbnail": "/assets/thumbnails/Shouhou.png",
                 "rarity": 2
             }, {
                 "name": "Fletcher",
-                "thumbnail": "./assets/thumbnails/Fletcher.png",
+                "thumbnail": "/assets/thumbnails/Fletcher.png",
                 "rarity": 2
             }, {
                 "name": "Thatcher",
-                "thumbnail": "./assets/thumbnails/Thatcher.png",
+                "thumbnail": "/assets/thumbnails/Thatcher.png",
                 "rarity": 2
             }, {
                 "name": "Norfolk",
-                "thumbnail": "./assets/thumbnails/Norfolk.png",
+                "thumbnail": "/assets/thumbnails/Norfolk.png",
                 "rarity": 2
             }, {
                 "name": "Gridley",
-                "thumbnail": "./assets/thumbnails/Gridley.png",
+                "thumbnail": "/assets/thumbnails/Gridley.png",
                 "rarity": 2
             }, {
                 "name": "Cassin",
-                "thumbnail": "./assets/thumbnails/Cassin.png",
+                "thumbnail": "/assets/thumbnails/Cassin.png",
                 "rarity": 3
             }, {
                 "name": "Downes",
-                "thumbnail": "./assets/thumbnails/Downes.png",
+                "thumbnail": "/assets/thumbnails/Downes.png",
                 "rarity": 3
             }, {
                 "name": "Aulick",
-                "thumbnail": "./assets/thumbnails/Aulick.png",
+                "thumbnail": "/assets/thumbnails/Aulick.png",
                 "rarity": 3
             }, {
                 "name": "Foote",
-                "thumbnail": "./assets/thumbnails/Foote.png",
+                "thumbnail": "/assets/thumbnails/Foote.png",
                 "rarity": 3
             }, {
                 "name": "Spencer",
-                "thumbnail": "./assets/thumbnails/Spencer.png",
+                "thumbnail": "/assets/thumbnails/Spencer.png",
                 "rarity": 3
             }, {
                 "name": "Nevada",
-                "thumbnail": "./assets/thumbnails/Nevada.png",
+                "thumbnail": "/assets/thumbnails/Nevada.png",
                 "rarity": 3
             }, {
                 "name": "Oklahoma",
-                "thumbnail": "./assets/thumbnails/Oklahoma.png",
+                "thumbnail": "/assets/thumbnails/Oklahoma.png",
                 "rarity": 3
             }, {
                 "name": "Bogue",
-                "thumbnail": "./assets/thumbnails/Bogue.png",
+                "thumbnail": "/assets/thumbnails/Bogue.png",
                 "rarity": 3
             }, {
                 "name": "Omaha",
-                "thumbnail": "./assets/thumbnails/Omaha.png",
+                "thumbnail": "/assets/thumbnails/Omaha.png",
                 "rarity": 3
             }, {
                 "name": "Raleigh",
-                "thumbnail": "./assets/thumbnails/Raleigh.png",
+                "thumbnail": "/assets/thumbnails/Raleigh.png",
                 "rarity": 3
             }, {
                 "name": "Comet",
-                "thumbnail": "./assets/thumbnails/Comet.png",
+                "thumbnail": "/assets/thumbnails/Comet.png",
                 "rarity": 3
             }, {
                 "name": "Crescent",
-                "thumbnail": "./assets/thumbnails/Crescent.png",
+                "thumbnail": "/assets/thumbnails/Crescent.png",
                 "rarity": 3
             }, {
                 "name": "Cygnet",
-                "thumbnail": "./assets/thumbnails/Cygnet.png",
+                "thumbnail": "/assets/thumbnails/Cygnet.png",
                 "rarity": 3
             }, {
                 "name": "Leander",
-                "thumbnail": "./assets/thumbnails/Foxhound.png",
+                "thumbnail": "/assets/thumbnails/Foxhound.png",
                 "rarity": 3
             }, {
                 "name": "Hermes",
-                "thumbnail": "./assets/thumbnails/Hermes.png",
+                "thumbnail": "/assets/thumbnails/Hermes.png",
                 "rarity": 3
             }],
             "l4": [{
                 "name": "Laffey",
-                "thumbnail": "./assets/thumbnails/Laffey.png",
+                "thumbnail": "/assets/thumbnails/Laffey.png",
                 "rarity": 1
             }, {
                 "name": "Javelin",
-                "thumbnail": "./assets/thumbnails/Javelin.png",
+                "thumbnail": "/assets/thumbnails/Javelin.png",
                 "rarity": 1
             }, {
                 "name": "Z23",
-                "thumbnail": "./assets/thumbnails/Z23.png",
+                "thumbnail": "/assets/thumbnails/Z23.png",
                 "rarity": 1
             }, {
                 "name": "Lexington",
-                "thumbnail": "./assets/thumbnails/Lexington.png",
+                "thumbnail": "/assets/thumbnails/Lexington.png",
                 "rarity": 1
             }, {
                 "name": "Rodney",
-                "thumbnail": "./assets/thumbnails/Rodney.png",
+                "thumbnail": "/assets/thumbnails/Rodney.png",
                 "rarity": 1
             }, {
                 "name": "Shouhou",
-                "thumbnail": "./assets/thumbnails/Shouhou.png",
+                "thumbnail": "/assets/thumbnails/Shouhou.png",
                 "rarity": 2
             }, {
                 "name": "Achilles",
-                "thumbnail": "./assets/thumbnails/Achilles.png",
+                "thumbnail": "/assets/thumbnails/Achilles.png",
                 "rarity": 2
             }, {
                 "name": "Ajax",
-                "thumbnail": "./assets/thumbnails/Ajax.png",
+                "thumbnail": "/assets/thumbnails/Ajax.png",
                 "rarity": 2
             }, {
                 "name": "Kent",
-                "thumbnail": "./assets/thumbnails/Kent.png",
+                "thumbnail": "/assets/thumbnails/Kent.png",
                 "rarity": 2
             }, {
                 "name": "Suffolk",
-                "thumbnail": "./assets/thumbnails/Suffolk.png",
+                "thumbnail": "/assets/thumbnails/Suffolk.png",
                 "rarity": 2
             }, {
                 "name": "Craven",
-                "thumbnail": "./assets/thumbnails/Craven.png",
+                "thumbnail": "/assets/thumbnails/Craven.png",
                 "rarity": 3
             }, {
                 "name": "McCall",
-                "thumbnail": "./assets/thumbnails/McCall.png",
+                "thumbnail": "/assets/thumbnails/McCall.png",
                 "rarity": 3
             }, {
                 "name": "Aulick",
-                "thumbnail": "./assets/thumbnails/Aulick.png",
+                "thumbnail": "/assets/thumbnails/Aulick.png",
                 "rarity": 3
             }, {
                 "name": "Foote",
-                "thumbnail": "./assets/thumbnails/Foote.png",
+                "thumbnail": "/assets/thumbnails/Foote.png",
                 "rarity": 3
             }, {
                 "name": "Spencer",
-                "thumbnail": "./assets/thumbnails/Spencer.png",
+                "thumbnail": "/assets/thumbnails/Spencer.png",
                 "rarity": 3
             }, {
                 "name": "Omaha",
-                "thumbnail": "./assets/thumbnails/Omaha.png",
+                "thumbnail": "/assets/thumbnails/Omaha.png",
                 "rarity": 3
             }, {
                 "name": "Raleigh",
-                "thumbnail": "./assets/thumbnails/Raleigh.png",
+                "thumbnail": "/assets/thumbnails/Raleigh.png",
                 "rarity": 3
             }, {
                 "name": "Nevada",
-                "thumbnail": "./assets/thumbnails/Nevada.png",
+                "thumbnail": "/assets/thumbnails/Nevada.png",
                 "rarity": 3
             }, {
                 "name": "Oklahoma",
-                "thumbnail": "./assets/thumbnails/Oklahoma.png",
+                "thumbnail": "/assets/thumbnails/Oklahoma.png",
                 "rarity": 3
             }, {
                 "name": "Bogue",
-                "thumbnail": "./assets/thumbnails/Bogue.png",
+                "thumbnail": "/assets/thumbnails/Bogue.png",
                 "rarity": 3
             }, {
                 "name": "Beagle",
-                "thumbnail": "./assets/thumbnails/Beagle.png",
+                "thumbnail": "/assets/thumbnails/Beagle.png",
                 "rarity": 3
             }, {
                 "name": "Bulldog",
-                "thumbnail": "./assets/thumbnails/Bulldog.png",
+                "thumbnail": "/assets/thumbnails/Bulldog.png",
                 "rarity": 3
             }, {
                 "name": "Foxhound",
-                "thumbnail": "./assets/thumbnails/Foxhound.png",
+                "thumbnail": "/assets/thumbnails/Foxhound.png",
                 "rarity": 3
             }, {
                 "name": "Leander",
-                "thumbnail": "./assets/thumbnails/Foxhound.png",
+                "thumbnail": "/assets/thumbnails/Foxhound.png",
                 "rarity": 3
             }, {
                 "name": "Hermes",
-                "thumbnail": "./assets/thumbnails/Hermes.png",
+                "thumbnail": "/assets/thumbnails/Hermes.png",
                 "rarity": 3
             }]
         }
@@ -559,428 +559,428 @@
         "normal": {
             "l1": [{
                 "name": "Laffey",
-                "thumbnail": "./assets/thumbnails/Laffey.png",
+                "thumbnail": "/assets/thumbnails/Laffey.png",
                 "rarity": 1
             }, {
                 "name": "Javelin",
-                "thumbnail": "./assets/thumbnails/Javelin.png",
+                "thumbnail": "/assets/thumbnails/Javelin.png",
                 "rarity": 1
             }, {
                 "name": "Z23",
-                "thumbnail": "./assets/thumbnails/Z23.png",
+                "thumbnail": "/assets/thumbnails/Z23.png",
                 "rarity": 1
             }, {
                 "name": "Souryuu",
-                "thumbnail": "./assets/thumbnails/Souryuu.png",
+                "thumbnail": "/assets/thumbnails/Souryuu.png",
                 "rarity": 1
             }, {
                 "name": "Hiryuu",
-                "thumbnail": "./assets/thumbnails/Hiryuu.png",
+                "thumbnail": "/assets/thumbnails/Hiryuu.png",
                 "rarity": 1
             }, {
                 "name": "Houston",
-                "thumbnail": "./assets/thumbnails/Houston.png",
+                "thumbnail": "/assets/thumbnails/Houston.png",
                 "rarity": 1
             }, {
                 "name": "Long Island",
-                "thumbnail": "./assets/thumbnails/LongIsland.png",
+                "thumbnail": "/assets/thumbnails/LongIsland.png",
                 "rarity": 2
             }, {
                 "name": "Arethusa",
-                "thumbnail": "./assets/thumbnails/Arethusa.png",
+                "thumbnail": "/assets/thumbnails/Arethusa.png",
                 "rarity": 2
             }, {
                 "name": "Galatea",
-                "thumbnail": "./assets/thumbnails/Galatea.png",
+                "thumbnail": "/assets/thumbnails/Galatea.png",
                 "rarity": 2
             }, {
                 "name": "Northampton",
-                "thumbnail": "./assets/thumbnails/Northampton.png",
+                "thumbnail": "/assets/thumbnails/Northampton.png",
                 "rarity": 2
             }, {
                 "name": "Chicago",
-                "thumbnail": "./assets/thumbnails/Chicago.png",
+                "thumbnail": "/assets/thumbnails/Chicago.png",
                 "rarity": 2
             }, {
                 "name": "Craven",
-                "thumbnail": "./assets/thumbnails/Craven.png",
+                "thumbnail": "/assets/thumbnails/Craven.png",
                 "rarity": 3
             }, {
                 "name": "McCall",
-                "thumbnail": "./assets/thumbnails/McCall.png",
+                "thumbnail": "/assets/thumbnails/McCall.png",
                 "rarity": 3
             }, {
                 "name": "Aulick",
-                "thumbnail": "./assets/thumbnails/Aulick.png",
+                "thumbnail": "/assets/thumbnails/Aulick.png",
                 "rarity": 3
             }, {
                 "name": "Foote",
-                "thumbnail": "./assets/thumbnails/Foote.png",
+                "thumbnail": "/assets/thumbnails/Foote.png",
                 "rarity": 3
             }, {
                 "name": "Spence",
-                "thumbnail": "./assets/thumbnails/Spence.png",
+                "thumbnail": "/assets/thumbnails/Spence.png",
                 "rarity": 3
             }, {
                 "name": "Omaha",
-                "thumbnail": "./assets/thumbnails/Omaha.png",
+                "thumbnail": "/assets/thumbnails/Omaha.png",
                 "rarity": 3
             }, {
                 "name": "Raleigh",
-                "thumbnail": "./assets/thumbnails/Raleigh.png",
+                "thumbnail": "/assets/thumbnails/Raleigh.png",
                 "rarity": 3
             }, {
                 "name": "Pensacola",
-                "thumbnail": "./assets/thumbnails/Pensacola.png",
+                "thumbnail": "/assets/thumbnails/Pensacola.png",
                 "rarity": 3
             }, {
                 "name": "Nevada",
-                "thumbnail": "./assets/thumbnails/Nevada.png",
+                "thumbnail": "/assets/thumbnails/Nevada.png",
                 "rarity": 3
             }, {
                 "name": "Oklahoma",
-                "thumbnail": "./assets/thumbnails/Oklahoma.png",
+                "thumbnail": "/assets/thumbnails/Oklahoma.png",
                 "rarity": 3
             }, {
                 "name": "Langley",
-                "thumbnail": "./assets/thumbnails/Langley.png",
+                "thumbnail": "/assets/thumbnails/Langley.png",
                 "rarity": 3
             }, {
                 "name": "Ranger",
-                "thumbnail": "./assets/thumbnails/Ranger.png",
+                "thumbnail": "/assets/thumbnails/Ranger.png",
                 "rarity": 3
             }, {
                 "name": "Beagle",
-                "thumbnail": "./assets/thumbnails/Beagle.png",
+                "thumbnail": "/assets/thumbnails/Beagle.png",
                 "rarity": 3
             }, {
                 "name": "Bulldog",
-                "thumbnail": "./assets/thumbnails/Bulldog.png",
+                "thumbnail": "/assets/thumbnails/Bulldog.png",
                 "rarity": 3
             }, {
                 "name": "Leander",
-                "thumbnail": "./assets/thumbnails/Leander.png",
+                "thumbnail": "/assets/thumbnails/Leander.png",
                 "rarity": 3
             }],
             "l2": [{
                 "name": "Laffey",
-                "thumbnail": "./assets/thumbnails/Laffey.png",
+                "thumbnail": "/assets/thumbnails/Laffey.png",
                 "rarity": 1
             }, {
                 "name": "Javelin",
-                "thumbnail": "./assets/thumbnails/Javelin.png",
+                "thumbnail": "/assets/thumbnails/Javelin.png",
                 "rarity": 1
             }, {
                 "name": "Z23",
-                "thumbnail": "./assets/thumbnails/Z23.png",
+                "thumbnail": "/assets/thumbnails/Z23.png",
                 "rarity": 1
             }, {
                 "name": "Souryuu",
-                "thumbnail": "./assets/thumbnails/Souryuu.png",
+                "thumbnail": "/assets/thumbnails/Souryuu.png",
                 "rarity": 1
             }, {
                 "name": "Hiryuu",
-                "thumbnail": "./assets/thumbnails/Hiryuu.png",
+                "thumbnail": "/assets/thumbnails/Hiryuu.png",
                 "rarity": 1
             }, {
                 "name": "Charles Ausburne",
-                "thumbnail": "./assets/thumbnails/CharlesAusburne.png",
+                "thumbnail": "/assets/thumbnails/CharlesAusburne.png",
                 "rarity": 1
             }, {
                 "name": "Fortune",
-                "thumbnail": "./assets/thumbnails/Fortune.png",
+                "thumbnail": "/assets/thumbnails/Fortune.png",
                 "rarity": 2
             }, {
                 "name": "Sims",
-                "thumbnail": "./assets/thumbnails/Sims.png",
+                "thumbnail": "/assets/thumbnails/Sims.png",
                 "rarity": 2
             }, {
                 "name": "Hammann",
-                "thumbnail": "./assets/thumbnails/Hammann.png",
+                "thumbnail": "/assets/thumbnails/Hammann.png",
                 "rarity": 2
             }, {
                 "name": "Arethusa",
-                "thumbnail": "./assets/thumbnails/Arethusa.png",
+                "thumbnail": "/assets/thumbnails/Arethusa.png",
                 "rarity": 2
             }, {
                 "name": "Galatea",
-                "thumbnail": "./assets/thumbnails/Galatea.png",
+                "thumbnail": "/assets/thumbnails/Galatea.png",
                 "rarity": 2
             }, {
                 "name": "Cassin",
-                "thumbnail": "./assets/thumbnails/Cassin.png",
+                "thumbnail": "/assets/thumbnails/Cassin.png",
                 "rarity": 3
             }, {
                 "name": "Downes",
-                "thumbnail": "./assets/thumbnails/Downes.png",
+                "thumbnail": "/assets/thumbnails/Downes.png",
                 "rarity": 3
             }, {
                 "name": "Craven",
-                "thumbnail": "./assets/thumbnails/Craven.png",
+                "thumbnail": "/assets/thumbnails/Craven.png",
                 "rarity": 3
             }, {
                 "name": "McCall",
-                "thumbnail": "./assets/thumbnails/McCall.png",
+                "thumbnail": "/assets/thumbnails/McCall.png",
                 "rarity": 3
             }, {
                 "name": "Omaha",
-                "thumbnail": "./assets/thumbnails/Omaha.png",
+                "thumbnail": "/assets/thumbnails/Omaha.png",
                 "rarity": 3
             }, {
                 "name": "Raleigh",
-                "thumbnail": "./assets/thumbnails/Raleigh.png",
+                "thumbnail": "/assets/thumbnails/Raleigh.png",
                 "rarity": 3
             }, {
                 "name": "Nevada",
-                "thumbnail": "./assets/thumbnails/Nevada.png",
+                "thumbnail": "/assets/thumbnails/Nevada.png",
                 "rarity": 3
             }, {
                 "name": "Oklahoma",
-                "thumbnail": "./assets/thumbnails/Oklahoma.png",
+                "thumbnail": "/assets/thumbnails/Oklahoma.png",
                 "rarity": 3
             }, {
                 "name": "Langley",
-                "thumbnail": "./assets/thumbnails/Langley.png",
+                "thumbnail": "/assets/thumbnails/Langley.png",
                 "rarity": 3
             }, {
                 "name": "Ranger",
-                "thumbnail": "./assets/thumbnails/Ranger.png",
+                "thumbnail": "/assets/thumbnails/Ranger.png",
                 "rarity": 3
             }, {
                 "name": "Foxhound",
-                "thumbnail": "./assets/thumbnails/Foxhound.png",
+                "thumbnail": "/assets/thumbnails/Foxhound.png",
                 "rarity": 3
             }, {
                 "name": "Leander",
-                "thumbnail": "./assets/thumbnails/Leander.png",
+                "thumbnail": "/assets/thumbnails/Leander.png",
                 "rarity": 3
             }, {
                 "name": "Königsberg",
-                "thumbnail": "./assets/thumbnails/Königsberg.png",
+                "thumbnail": "/assets/thumbnails/Königsberg.png",
                 "rarity": 3
             }, {
                 "name": "Karlsruhe",
-                "thumbnail": "./assets/thumbnails/Karlsruhe.png",
+                "thumbnail": "/assets/thumbnails/Karlsruhe.png",
                 "rarity": 3
             }, {
                 "name": "Köln",
-                "thumbnail": "./assets/thumbnails/Köln.png",
+                "thumbnail": "/assets/thumbnails/Köln.png",
                 "rarity": 3
             }],
             "l3": [{
                 "name": "Laffey",
-                "thumbnail": "./assets/thumbnails/Laffey.png",
+                "thumbnail": "/assets/thumbnails/Laffey.png",
                 "rarity": 1
             }, {
                 "name": "Javelin",
-                "thumbnail": "./assets/thumbnails/Javelin.png",
+                "thumbnail": "/assets/thumbnails/Javelin.png",
                 "rarity": 1
             }, {
                 "name": "Z23",
-                "thumbnail": "./assets/thumbnails/Z23.png",
+                "thumbnail": "/assets/thumbnails/Z23.png",
                 "rarity": 1
             }, {
                 "name": "Souryuu",
-                "thumbnail": "./assets/thumbnails/Souryuu.png",
+                "thumbnail": "/assets/thumbnails/Souryuu.png",
                 "rarity": 1
             }, {
                 "name": "Hiryuu",
-                "thumbnail": "./assets/thumbnails/Hiryuu.png",
+                "thumbnail": "/assets/thumbnails/Hiryuu.png",
                 "rarity": 1
             }, {
                 "name": "Indianapolis",
-                "thumbnail": "./assets/thumbnails/Indianapolis.png",
+                "thumbnail": "/assets/thumbnails/Indianapolis.png",
                 "rarity": 1
             }, {
                 "name": "Shiratsuyu",
-                "thumbnail": "./assets/thumbnails/Shiratsuyu.png",
+                "thumbnail": "/assets/thumbnails/Shiratsuyu.png",
                 "rarity": 2
             }, {
                 "name": "Kagerou",
-                "thumbnail": "./assets/thumbnails/Kagerou.png",
+                "thumbnail": "/assets/thumbnails/Kagerou.png",
                 "rarity": 2
             }, {
                 "name": "Fortune",
-                "thumbnail": "./assets/thumbnails/Fortune.png",
+                "thumbnail": "/assets/thumbnails/Fortune.png",
                 "rarity": 2
             }, {
                 "name": "Achilles",
-                "thumbnail": "./assets/thumbnails/Achilles.png",
+                "thumbnail": "/assets/thumbnails/Achilles.png",
                 "rarity": 2
             }, {
                 "name": "Ajax",
-                "thumbnail": "./assets/thumbnails/Ajax.png",
+                "thumbnail": "/assets/thumbnails/Ajax.png",
                 "rarity": 2
             }, {
                 "name": "Cassin",
-                "thumbnail": "./assets/thumbnails/Cassin.png",
+                "thumbnail": "/assets/thumbnails/Cassin.png",
                 "rarity": 3
             }, {
                 "name": "Downes",
-                "thumbnail": "./assets/thumbnails/Downes.png",
+                "thumbnail": "/assets/thumbnails/Downes.png",
                 "rarity": 3
             }, {
                 "name": "Aulick",
-                "thumbnail": "./assets/thumbnails/Aulick.png",
+                "thumbnail": "/assets/thumbnails/Aulick.png",
                 "rarity": 3
             }, {
                 "name": "Foote",
-                "thumbnail": "./assets/thumbnails/Foote.png",
+                "thumbnail": "/assets/thumbnails/Foote.png",
                 "rarity": 3
             }, {
                 "name": "Spence",
-                "thumbnail": "./assets/thumbnails/Spence.png",
+                "thumbnail": "/assets/thumbnails/Spence.png",
                 "rarity": 3
             }, {
                 "name": "Omaha",
-                "thumbnail": "./assets/thumbnails/Omaha.png",
+                "thumbnail": "/assets/thumbnails/Omaha.png",
                 "rarity": 3
             }, {
                 "name": "Raleigh",
-                "thumbnail": "./assets/thumbnails/Raleigh.png",
+                "thumbnail": "/assets/thumbnails/Raleigh.png",
                 "rarity": 3
             }, {
                 "name": "Nevada",
-                "thumbnail": "./assets/thumbnails/Nevada.png",
+                "thumbnail": "/assets/thumbnails/Nevada.png",
                 "rarity": 3
             }, {
                 "name": "Oklahoma",
-                "thumbnail": "./assets/thumbnails/Oklahoma.png",
+                "thumbnail": "/assets/thumbnails/Oklahoma.png",
                 "rarity": 3
             }, {
                 "name": "Langley",
-                "thumbnail": "./assets/thumbnails/Langley.png",
+                "thumbnail": "/assets/thumbnails/Langley.png",
                 "rarity": 3
             }, {
                 "name": "Ranger",
-                "thumbnail": "./assets/thumbnails/Ranger.png",
+                "thumbnail": "/assets/thumbnails/Ranger.png",
                 "rarity": 3
             }, {
                 "name": "Beagle",
-                "thumbnail": "./assets/thumbnails/Beagle.png",
+                "thumbnail": "/assets/thumbnails/Beagle.png",
                 "rarity": 3
             }, {
                 "name": "Bulldog",
-                "thumbnail": "./assets/thumbnails/Bulldog.png",
+                "thumbnail": "/assets/thumbnails/Bulldog.png",
                 "rarity": 3
             }, {
                 "name": "Furutaka",
-                "thumbnail": "./assets/thumbnails/Furutaka.png",
+                "thumbnail": "/assets/thumbnails/Furutaka.png",
                 "rarity": 3
             }, {
                 "name": "Kako",
-                "thumbnail": "./assets/thumbnails/Kako.png",
+                "thumbnail": "/assets/thumbnails/Kako.png",
                 "rarity": 3
             }],
             "l4": [{
                 "name": "Akagi",
-                "thumbnail": "./assets/thumbnails/Akagi.png",
+                "thumbnail": "/assets/thumbnails/Akagi.png",
                 "rarity": 0,
                 "bossonly": "Boss only"
             }, {
                 "name": "Kaga",
-                "thumbnail": "./assets/thumbnails/Kaga.png",
+                "thumbnail": "/assets/thumbnails/Kaga.png",
                 "rarity": 0,
                 "bossonly": "Boss only"
             }, {
                 "name": "Laffey",
-                "thumbnail": "./assets/thumbnails/Laffey.png",
+                "thumbnail": "/assets/thumbnails/Laffey.png",
                 "rarity": 1
             }, {
                 "name": "Javelin",
-                "thumbnail": "./assets/thumbnails/Javelin.png",
+                "thumbnail": "/assets/thumbnails/Javelin.png",
                 "rarity": 1
             }, {
                 "name": "Z23",
-                "thumbnail": "./assets/thumbnails/Z23.png",
+                "thumbnail": "/assets/thumbnails/Z23.png",
                 "rarity": 1
             }, {
                 "name": "Yorktown",
-                "thumbnail": "./assets/thumbnails/Yorktown.png",
+                "thumbnail": "/assets/thumbnails/Yorktown.png",
                 "rarity": 1
             }, {
                 "name": "Houston",
-                "thumbnail": "./assets/thumbnails/Houston.png",
+                "thumbnail": "/assets/thumbnails/Houston.png",
                 "rarity": 1
             }, {
                 "name": "Portland",
-                "thumbnail": "./assets/thumbnails/Portland.png",
+                "thumbnail": "/assets/thumbnails/Portland.png",
                 "rarity": 2
             }, {
                 "name": "Juno",
-                "thumbnail": "./assets/thumbnails/Juno.png",
+                "thumbnail": "/assets/thumbnails/Juno.png",
                 "rarity": 2
             }, {
                 "name": "Fletcher",
-                "thumbnail": "./assets/thumbnails/Fletcher.png",
+                "thumbnail": "/assets/thumbnails/Fletcher.png",
                 "rarity": 2
             }, {
                 "name": "Thatcher",
-                "thumbnail": "./assets/thumbnails/Thatcher.png",
+                "thumbnail": "/assets/thumbnails/Thatcher.png",
                 "rarity": 2
             }, {
                 "name": "Kagerou",
-                "thumbnail": "./assets/thumbnails/Kagerou.png",
+                "thumbnail": "/assets/thumbnails/Kagerou.png",
                 "rarity": 2
             }, {
                 "name": "Cassin",
-                "thumbnail": "./assets/thumbnails/Cassin.png",
+                "thumbnail": "/assets/thumbnails/Cassin.png",
                 "rarity": 3
             }, {
                 "name": "Downes",
-                "thumbnail": "./assets/thumbnails/Downes.png",
+                "thumbnail": "/assets/thumbnails/Downes.png",
                 "rarity": 3
             }, {
                 "name": "Aulick",
-                "thumbnail": "./assets/thumbnails/Aulick.png",
+                "thumbnail": "/assets/thumbnails/Aulick.png",
                 "rarity": 3
             }, {
                 "name": "Foote",
-                "thumbnail": "./assets/thumbnails/Foote.png",
+                "thumbnail": "/assets/thumbnails/Foote.png",
                 "rarity": 3
             }, {
                 "name": "Spence",
-                "thumbnail": "./assets/thumbnails/Spence.png",
+                "thumbnail": "/assets/thumbnails/Spence.png",
                 "rarity": 3
             }, {
                 "name": "Nevada",
-                "thumbnail": "./assets/thumbnails/Nevada.png",
+                "thumbnail": "/assets/thumbnails/Nevada.png",
                 "rarity": 3
             }, {
                 "name": "Oklahoma",
-                "thumbnail": "./assets/thumbnails/Oklahoma.png",
+                "thumbnail": "/assets/thumbnails/Oklahoma.png",
                 "rarity": 3
             }, {
                 "name": "Langley",
-                "thumbnail": "./assets/thumbnails/Langley.png",
+                "thumbnail": "/assets/thumbnails/Langley.png",
                 "rarity": 3
             }, {
                 "name": "Ranger",
-                "thumbnail": "./assets/thumbnails/Ranger.png",
+                "thumbnail": "/assets/thumbnails/Ranger.png",
                 "rarity": 3
             }, {
                 "name": "Beagle",
-                "thumbnail": "./assets/thumbnails/Beagle.png",
+                "thumbnail": "/assets/thumbnails/Beagle.png",
                 "rarity": 3
             }, {
                 "name": "Bulldog",
-                "thumbnail": "./assets/thumbnails/Bulldog.png",
+                "thumbnail": "/assets/thumbnails/Bulldog.png",
                 "rarity": 3
             }, {
                 "name": "Foxhound",
-                "thumbnail": "./assets/thumbnails/Foxhound.png",
+                "thumbnail": "/assets/thumbnails/Foxhound.png",
                 "rarity": 3
             }, {
                 "name": "Königsberg",
-                "thumbnail": "./assets/thumbnails/Königsberg.png",
+                "thumbnail": "/assets/thumbnails/Königsberg.png",
                 "rarity": 3
             }, {
                 "name": "Karlsruhe",
-                "thumbnail": "./assets/thumbnails/Karlsruhe.png",
+                "thumbnail": "/assets/thumbnails/Karlsruhe.png",
                 "rarity": 3
             }, {
                 "name": "Köln",
-                "thumbnail": "./assets/thumbnails/Köln.png",
+                "thumbnail": "/assets/thumbnails/Köln.png",
                 "rarity": 3
             }]
         }
@@ -989,410 +989,410 @@
         "normal": {
             "l1": [{
                 "name": "Laffey",
-                "thumbnail": "./assets/thumbnails/Laffey.png",
+                "thumbnail": "/assets/thumbnails/Laffey.png",
                 "rarity": 1
             }, {
                 "name": "Javelin",
-                "thumbnail": "./assets/thumbnails/Javelin.png",
+                "thumbnail": "/assets/thumbnails/Javelin.png",
                 "rarity": 1
             }, {
                 "name": "Z23",
-                "thumbnail": "./assets/thumbnails/Z23.png",
+                "thumbnail": "/assets/thumbnails/Z23.png",
                 "rarity": 1
             }, {
                 "name": "Saratoga",
-                "thumbnail": "./assets/thumbnails/Saratoga.png",
+                "thumbnail": "/assets/thumbnails/Saratoga.png",
                 "rarity": 1
             }, {
                 "name": "Charles Ausburne",
-                "thumbnail": "./assets/thumbnails/CharlesAusburne.png",
+                "thumbnail": "/assets/thumbnails/CharlesAusburne.png",
                 "rarity": 1
             }, {
                 "name": "Sims",
-                "thumbnail": "./assets/thumbnails/Sims.png",
+                "thumbnail": "/assets/thumbnails/Sims.png",
                 "rarity": 2
             }, {
                 "name": "Hammann",
-                "thumbnail": "./assets/thumbnails/Hammann.png",
+                "thumbnail": "/assets/thumbnails/Hammann.png",
                 "rarity": 2
             }, {
                 "name": "Portland",
-                "thumbnail": "./assets/thumbnails/Portland.png",
+                "thumbnail": "/assets/thumbnails/Portland.png",
                 "rarity": 2
             }, {
                 "name": "Brooklyn",
-                "thumbnail": "./assets/thumbnails/Brooklyn.png",
+                "thumbnail": "/assets/thumbnails/Brooklyn.png",
                 "rarity": 2
             }, {
                 "name": "Phoenix",
-                "thumbnail": "./assets/thumbnails/Phoenix.png",
+                "thumbnail": "/assets/thumbnails/Phoenix.png",
                 "rarity": 2
             }, {
                 "name": "Omaha",
-                "thumbnail": "./assets/thumbnails/Omaha.png",
+                "thumbnail": "/assets/thumbnails/Omaha.png",
                 "rarity": 3
             }, {
                 "name": "Raleigh",
-                "thumbnail": "./assets/thumbnails/Raleigh.png",
+                "thumbnail": "/assets/thumbnails/Raleigh.png",
                 "rarity": 3
             }, {
                 "name": "Nevada",
-                "thumbnail": "./assets/thumbnails/Nevada.png",
+                "thumbnail": "/assets/thumbnails/Nevada.png",
                 "rarity": 3
             }, {
                 "name": "Oklahoma",
-                "thumbnail": "./assets/thumbnails/Oklahoma.png",
+                "thumbnail": "/assets/thumbnails/Oklahoma.png",
                 "rarity": 3
             }, {
                 "name": "Bogue",
-                "thumbnail": "./assets/thumbnails/Bogue.png",
+                "thumbnail": "/assets/thumbnails/Bogue.png",
                 "rarity": 3
             }, {
                 "name": "Ranger",
-                "thumbnail": "./assets/thumbnails/Ranger.png",
+                "thumbnail": "/assets/thumbnails/Ranger.png",
                 "rarity": 3
             }, {
                 "name": "Beagle",
-                "thumbnail": "./assets/thumbnails/Beagle.png",
+                "thumbnail": "/assets/thumbnails/Beagle.png",
                 "rarity": 3
             }, {
                 "name": "Bulldog",
-                "thumbnail": "./assets/thumbnails/Bulldog.png",
+                "thumbnail": "/assets/thumbnails/Bulldog.png",
                 "rarity": 3
             }, {
                 "name": "Foxhound",
-                "thumbnail": "./assets/thumbnails/Foxhound.png",
+                "thumbnail": "/assets/thumbnails/Foxhound.png",
                 "rarity": 3
             }, {
                 "name": "Leander",
-                "thumbnail": "./assets/thumbnails/Leander.png",
+                "thumbnail": "/assets/thumbnails/Leander.png",
                 "rarity": 3
             }, {
                 "name": "Hermes",
-                "thumbnail": "./assets/thumbnails/Hermes.png",
+                "thumbnail": "/assets/thumbnails/Hermes.png",
                 "rarity": 3
             }, {
                 "name": "Shiranui",
-                "thumbnail": "./assets/thumbnails/Shiranui.png",
+                "thumbnail": "/assets/thumbnails/Shiranui.png",
                 "rarity": 3
             }, {
                 "name": "Königsberg",
-                "thumbnail": "./assets/thumbnails/Königsberg.png",
+                "thumbnail": "/assets/thumbnails/Königsberg.png",
                 "rarity": 3
             }, {
                 "name": "Karlsruhe",
-                "thumbnail": "./assets/thumbnails/Karlsruhe.png",
+                "thumbnail": "/assets/thumbnails/Karlsruhe.png",
                 "rarity": 3
             }, {
                 "name": "Köln",
-                "thumbnail": "./assets/thumbnails/Köln.png",
+                "thumbnail": "/assets/thumbnails/Köln.png",
                 "rarity": 3
             }],
             "l2": [{
                 "name": "Laffey",
-                "thumbnail": "./assets/thumbnails/Laffey.png",
+                "thumbnail": "/assets/thumbnails/Laffey.png",
                 "rarity": 1
             }, {
                 "name": "Javelin",
-                "thumbnail": "./assets/thumbnails/Javelin.png",
+                "thumbnail": "/assets/thumbnails/Javelin.png",
                 "rarity": 1
             }, {
                 "name": "Z23",
-                "thumbnail": "./assets/thumbnails/Z23.png",
+                "thumbnail": "/assets/thumbnails/Z23.png",
                 "rarity": 1
             }, {
                 "name": "Shigure",
-                "thumbnail": "./assets/thumbnails/Shigure.png",
+                "thumbnail": "/assets/thumbnails/Shigure.png",
                 "rarity": 1
             }, {
                 "name": "London",
-                "thumbnail": "./assets/thumbnails/London.png",
+                "thumbnail": "/assets/thumbnails/London.png",
                 "rarity": 1
             }, {
                 "name": "Shropshire",
-                "thumbnail": "./assets/thumbnails/Shropshire.png",
+                "thumbnail": "/assets/thumbnails/Shropshire.png",
                 "rarity": 2
             }, {
                 "name": "Tennessee",
-                "thumbnail": "./assets/thumbnails/Tennessee.png",
+                "thumbnail": "/assets/thumbnails/Tennessee.png",
                 "rarity": 2
             }, {
                 "name": "California",
-                "thumbnail": "./assets/thumbnails/California.png",
+                "thumbnail": "/assets/thumbnails/California.png",
                 "rarity": 2
             }, {
                 "name": "Norfolk",
-                "thumbnail": "./assets/thumbnails/Norfolk.png",
+                "thumbnail": "/assets/thumbnails/Norfolk.png",
                 "rarity": 2
             }, {
                 "name": "Thatcher",
-                "thumbnail": "./assets/thumbnails/Thatcher.png",
+                "thumbnail": "/assets/thumbnails/Thatcher.png",
                 "rarity": 2
             }, {
                 "name": "Aulick",
-                "thumbnail": "./assets/thumbnails/Aulick.png",
+                "thumbnail": "/assets/thumbnails/Aulick.png",
                 "rarity": 3
             }, {
                 "name": "Foote",
-                "thumbnail": "./assets/thumbnails/Foote.png",
+                "thumbnail": "/assets/thumbnails/Foote.png",
                 "rarity": 3
             }, {
                 "name": "Spence",
-                "thumbnail": "./assets/thumbnails/Spence.png",
+                "thumbnail": "/assets/thumbnails/Spence.png",
                 "rarity": 3
             }, {
                 "name": "Pensacola",
-                "thumbnail": "./assets/thumbnails/Pensacola.png",
+                "thumbnail": "/assets/thumbnails/Pensacola.png",
                 "rarity": 3
             }, {
                 "name": "Bogue",
-                "thumbnail": "./assets/thumbnails/Bogue.png",
+                "thumbnail": "/assets/thumbnails/Bogue.png",
                 "rarity": 3
             }, {
                 "name": "Langley",
-                "thumbnail": "./assets/thumbnails/Langley.png",
+                "thumbnail": "/assets/thumbnails/Langley.png",
                 "rarity": 3
             }, {
                 "name": "Beagle",
-                "thumbnail": "./assets/thumbnails/Beagle.png",
+                "thumbnail": "/assets/thumbnails/Beagle.png",
                 "rarity": 3
             }, {
                 "name": "Bulldog",
-                "thumbnail": "./assets/thumbnails/Bulldog.png",
+                "thumbnail": "/assets/thumbnails/Bulldog.png",
                 "rarity": 3
             }, {
                 "name": "Foxhound",
-                "thumbnail": "./assets/thumbnails/Foxhound.png",
+                "thumbnail": "/assets/thumbnails/Foxhound.png",
                 "rarity": 3
             }, {
                 "name": "Leander",
-                "thumbnail": "./assets/thumbnails/Leander.png",
+                "thumbnail": "/assets/thumbnails/Leander.png",
                 "rarity": 3
             }, {
                 "name": "Hermes",
-                "thumbnail": "./assets/thumbnails/Hermes.png",
+                "thumbnail": "/assets/thumbnails/Hermes.png",
                 "rarity": 3
             }, {
                 "name": "Shiranui",
-                "thumbnail": "./assets/thumbnails/Shiranui.png",
+                "thumbnail": "/assets/thumbnails/Shiranui.png",
                 "rarity": 3
             }, {
                 "name": "Königsberg",
-                "thumbnail": "./assets/thumbnails/Königsberg.png",
+                "thumbnail": "/assets/thumbnails/Königsberg.png",
                 "rarity": 3
             }, {
                 "name": "Karlsruhe",
-                "thumbnail": "./assets/thumbnails/Karlsruhe.png",
+                "thumbnail": "/assets/thumbnails/Karlsruhe.png",
                 "rarity": 3
             }, {
                 "name": "Köln",
-                "thumbnail": "./assets/thumbnails/Köln.png",
+                "thumbnail": "/assets/thumbnails/Köln.png",
                 "rarity": 3
             }],
             "l3": [{
                 "name": "Laffey",
-                "thumbnail": "./assets/thumbnails/Laffey.png",
+                "thumbnail": "/assets/thumbnails/Laffey.png",
                 "rarity": 1
             }, {
                 "name": "Javelin",
-                "thumbnail": "./assets/thumbnails/Javelin.png",
+                "thumbnail": "/assets/thumbnails/Javelin.png",
                 "rarity": 1
             }, {
                 "name": "Z23",
-                "thumbnail": "./assets/thumbnails/Z23.png",
+                "thumbnail": "/assets/thumbnails/Z23.png",
                 "rarity": 1
             }, {
                 "name": "Erebus",
-                "thumbnail": "./assets/thumbnails/Erebus.png",
+                "thumbnail": "/assets/thumbnails/Erebus.png",
                 "rarity": 1
             }, {
                 "name": "Terror",
-                "thumbnail": "./assets/thumbnails/Terror.png",
+                "thumbnail": "/assets/thumbnails/Terror.png",
                 "rarity": 1
             }, {
                 "name": "Portland",
-                "thumbnail": "./assets/thumbnails/Portland.png",
+                "thumbnail": "/assets/thumbnails/Portland.png",
                 "rarity": 2
             }, {
                 "name": "Kent",
-                "thumbnail": "./assets/thumbnails/Kent.png",
+                "thumbnail": "/assets/thumbnails/Kent.png",
                 "rarity": 2
             }, {
                 "name": "Suffolk",
-                "thumbnail": "./assets/thumbnails/Suffolk.png",
+                "thumbnail": "/assets/thumbnails/Suffolk.png",
                 "rarity": 2
             }, {
                 "name": "Shiratsuyu",
-                "thumbnail": "./assets/thumbnails/Shiratsuyu.png",
+                "thumbnail": "/assets/thumbnails/Shiratsuyu.png",
                 "rarity": 2
             }, {
                 "name": "Kagerou",
-                "thumbnail": "./assets/thumbnails/Kagerou.png",
+                "thumbnail": "/assets/thumbnails/Kagerou.png",
                 "rarity": 2
             }, {
                 "name": "Cassin",
-                "thumbnail": "./assets/thumbnails/Cassin.png",
+                "thumbnail": "/assets/thumbnails/Cassin.png",
                 "rarity": 3
             }, {
                 "name": "Downes",
-                "thumbnail": "./assets/thumbnails/Downes.png",
+                "thumbnail": "/assets/thumbnails/Downes.png",
                 "rarity": 3
             }, {
                 "name": "Omaha",
-                "thumbnail": "./assets/thumbnails/Omaha.png",
+                "thumbnail": "/assets/thumbnails/Omaha.png",
                 "rarity": 3
             }, {
                 "name": "Raleigh",
-                "thumbnail": "./assets/thumbnails/Raleigh.png",
+                "thumbnail": "/assets/thumbnails/Raleigh.png",
                 "rarity": 3
             }, {
                 "name": "Pensacola",
-                "thumbnail": "./assets/thumbnails/Pensacola.png",
+                "thumbnail": "/assets/thumbnails/Pensacola.png",
                 "rarity": 3
             }, {
                 "name": "Nevada",
-                "thumbnail": "./assets/thumbnails/Nevada.png",
+                "thumbnail": "/assets/thumbnails/Nevada.png",
                 "rarity": 3
             }, {
                 "name": "Oklahoma",
-                "thumbnail": "./assets/thumbnails/Oklahoma.png",
+                "thumbnail": "/assets/thumbnails/Oklahoma.png",
                 "rarity": 3
             }, {
                 "name": "Langley",
-                "thumbnail": "./assets/thumbnails/Langley.png",
+                "thumbnail": "/assets/thumbnails/Langley.png",
                 "rarity": 3
             }, {
                 "name": "Ranger",
-                "thumbnail": "./assets/thumbnails/Ranger.png",
+                "thumbnail": "/assets/thumbnails/Ranger.png",
                 "rarity": 3
             }, {
                 "name": "Beagle",
-                "thumbnail": "./assets/thumbnails/Beagle.png",
+                "thumbnail": "/assets/thumbnails/Beagle.png",
                 "rarity": 3
             }, {
                 "name": "Bulldog",
-                "thumbnail": "./assets/thumbnails/Bulldog.png",
+                "thumbnail": "/assets/thumbnails/Bulldog.png",
                 "rarity": 3
             }, {
                 "name": "Foxhound",
-                "thumbnail": "./assets/thumbnails/Foxhound.png",
+                "thumbnail": "/assets/thumbnails/Foxhound.png",
                 "rarity": 3
             }, {
                 "name": "Leander",
-                "thumbnail": "./assets/thumbnails/Leander.png",
+                "thumbnail": "/assets/thumbnails/Leander.png",
                 "rarity": 3
             }, {
                 "name": "Hermes",
-                "thumbnail": "./assets/thumbnails/Hermes.png",
+                "thumbnail": "/assets/thumbnails/Hermes.png",
                 "rarity": 3
             }, {
                 "name": "Shiranui",
-                "thumbnail": "./assets/thumbnails/Shiranui.png",
+                "thumbnail": "/assets/thumbnails/Shiranui.png",
                 "rarity": 3
             }],
             "l4": [{
                 "name": "Laffey",
-                "thumbnail": "./assets/thumbnails/Laffey.png",
+                "thumbnail": "/assets/thumbnails/Laffey.png",
                 "rarity": 1
             }, {
                 "name": "Javelin",
-                "thumbnail": "./assets/thumbnails/Javelin.png",
+                "thumbnail": "/assets/thumbnails/Javelin.png",
                 "rarity": 1
             }, {
                 "name": "Z23",
-                "thumbnail": "./assets/thumbnails/Z23.png",
+                "thumbnail": "/assets/thumbnails/Z23.png",
                 "rarity": 1
             }, {
                 "name": "Unicorn",
-                "thumbnail": "./assets/thumbnails/Unicorn.png",
+                "thumbnail": "/assets/thumbnails/Unicorn.png",
                 "rarity": 1
             }, {
                 "name": "Cleveland",
-                "thumbnail": "./assets/thumbnails/Cleveland.png",
+                "thumbnail": "/assets/thumbnails/Cleveland.png",
                 "rarity": 1
             }, {
                 "name": "Indianapolis",
-                "thumbnail": "./assets/thumbnails/Indianapolis.png",
+                "thumbnail": "/assets/thumbnails/Indianapolis.png",
                 "rarity": 1
             }, {
                 "name": "Amazon",
-                "thumbnail": "./assets/thumbnails/Amazon.png",
+                "thumbnail": "/assets/thumbnails/Amazon.png",
                 "rarity": 2
             }, {
                 "name": "Northampton",
-                "thumbnail": "./assets/thumbnails/Northampton.png",
+                "thumbnail": "/assets/thumbnails/Northampton.png",
                 "rarity": 2
             }, {
                 "name": "Chicago",
-                "thumbnail": "./assets/thumbnails/Chicago.png",
+                "thumbnail": "/assets/thumbnails/Chicago.png",
                 "rarity": 2
             }, {
                 "name": "Gridley",
-                "thumbnail": "./assets/thumbnails/Gridley.png",
+                "thumbnail": "/assets/thumbnails/Gridley.png",
                 "rarity": 2
             }, {
                 "name": "Phoenix",
-                "thumbnail": "./assets/thumbnails/Phoenix.png",
+                "thumbnail": "/assets/thumbnails/Phoenix.png",
                 "rarity": 2
             }, {
                 "name": "Cassin",
-                "thumbnail": "./assets/thumbnails/Cassin.png",
+                "thumbnail": "/assets/thumbnails/Cassin.png",
                 "rarity": 3
             }, {
                 "name": "Downes",
-                "thumbnail": "./assets/thumbnails/Downes.png",
+                "thumbnail": "/assets/thumbnails/Downes.png",
                 "rarity": 3
             }, {
                 "name": "Craven",
-                "thumbnail": "./assets/thumbnails/Craven.png",
+                "thumbnail": "/assets/thumbnails/Craven.png",
                 "rarity": 3
             }, {
                 "name": "McCall",
-                "thumbnail": "./assets/thumbnails/McCall.png",
+                "thumbnail": "/assets/thumbnails/McCall.png",
                 "rarity": 3
             }, {
                 "name": "Pensacola",
-                "thumbnail": "./assets/thumbnails/Pensacola.png",
+                "thumbnail": "/assets/thumbnails/Pensacola.png",
                 "rarity": 3
             }, {
                 "name": "Nevada",
-                "thumbnail": "./assets/thumbnails/Nevada.png",
+                "thumbnail": "/assets/thumbnails/Nevada.png",
                 "rarity": 3
             }, {
                 "name": "Oklahoma",
-                "thumbnail": "./assets/thumbnails/Oklahoma.png",
+                "thumbnail": "/assets/thumbnails/Oklahoma.png",
                 "rarity": 3
             }, {
                 "name": "Bogue",
-                "thumbnail": "./assets/thumbnails/Bogue.png",
+                "thumbnail": "/assets/thumbnails/Bogue.png",
                 "rarity": 3
             }, {
                 "name": "Langley",
-                "thumbnail": "./assets/thumbnails/Langley.png",
+                "thumbnail": "/assets/thumbnails/Langley.png",
                 "rarity": 3
             }, {
                 "name": "Ranger",
-                "thumbnail": "./assets/thumbnails/Ranger.png",
+                "thumbnail": "/assets/thumbnails/Ranger.png",
                 "rarity": 3
             }, {
                 "name": "Beagle",
-                "thumbnail": "./assets/thumbnails/Beagle.png",
+                "thumbnail": "/assets/thumbnails/Beagle.png",
                 "rarity": 3
             }, {
                 "name": "Bulldog",
-                "thumbnail": "./assets/thumbnails/Bulldog.png",
+                "thumbnail": "/assets/thumbnails/Bulldog.png",
                 "rarity": 3
             }, {
                 "name": "Furutaka",
-                "thumbnail": "./assets/thumbnails/Furutaka.png",
+                "thumbnail": "/assets/thumbnails/Furutaka.png",
                 "rarity": 3
             }, {
                 "name": "Kako",
-                "thumbnail": "./assets/thumbnails/Kako.png",
+                "thumbnail": "/assets/thumbnails/Kako.png",
                 "rarity": 3
             }, {
                 "name": "Shiranui",
-                "thumbnail": "./assets/thumbnails/Shiranui.png",
+                "thumbnail": "/assets/thumbnails/Shiranui.png",
                 "rarity": 3
             }]
         }
